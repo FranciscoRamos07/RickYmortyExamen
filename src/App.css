@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  display: block;
+  background-color: aqua;
+
+}
+
+p{
+  font-family: 'Franklin Gothic Medium';
+  font-size:15px;
+  
+}
+h3{
+  font-family: 'Franklin Gothic Medium';
+  font-size:30px;
+}
+
+
+
+.text{
+  display: inline-block;
+}
+
+.all{
+  border: 1px solid black;
+}
